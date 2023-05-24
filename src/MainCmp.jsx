@@ -27,7 +27,7 @@ const MainCmp=()=>{
                         style={{ fontSize: '1em', paddingLeft:'5px' }}
                         />
                     </h2>
-                    <div className=" flex justify-between pt-8 max-w-[200px] w-[10%] gap-4">
+                    <div className=" flex justify-between pt-8 max-w-[200px] w-[50%] ">
                     <a href="https://www.linkedin.com/in/chan-jonathan-63037223a"><FaLinkedin className='cursor-pointer' size={40}/></a>
                     <a href="https://wa.me/85254033854"><FaWhatsappSquare  className='cursor-pointer' size={40}/></a>
                     </div>
