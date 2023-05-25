@@ -14,7 +14,7 @@ function Project() {
             <ProjectItems img={jjImg} title="Database Manager" language="Java" link='https://github.com/Jonathan001121/library_database_manager'/>
             <ProjectItems img={oosImg} title="Ordering System" language="Python" link='https://github.com/Jonathan001121/online_ordering_syste'/>
             <ProjectItems img={vwImg} title="Inventory Webs" language="Vue.js and Express.js" link='https://github.com/Jonathan001121/Vue_Web'/>
-            <ProjectItems img={waImg} title="Web Based Application" language="Kotlin" link='https://github.com/Jonathan001121/InventoryApps'/>
+            <ProjectItems img={waImg} title="Android Application" language="Kotlin" link='https://github.com/Jonathan001121/InventoryApps'/>
         </div>
     </div>
 
