@@ -14,6 +14,12 @@ const data=[
         details:'Junior Programmer Summer Internship. Mainly focus on front-end development, and handle restful api',
     },
     {
+        year:2023,
+        title:'Midland Realty Service Limited (a wholly-owned subsidary of Midland Holding Limited)',
+        duration:'3 months',
+        details:'Summer Internship in Information Technology Department (Project Management Office, PMO)',
+    },
+    {
         year:2024,
         title:'Expected grudation year',
         duration:'',
